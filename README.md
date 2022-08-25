@@ -7,9 +7,9 @@ After correct creation of receipt/invoice in Subiekt GT order will be moved to s
 ## Table of contents
 - [Installation](#Installation)
 - [Configuration](#Configuration)
-  - [Installing sqlsrv library](#Installing sqlsrv library)
-  - [Installing com_dotnet library](#Installing com_dotnet library)
-- [Running script](#Running script)
+  - [Installing sqlsrv library](#Installing-sqlsrv-library)
+  - [Installing com_dotnet library](#Installing-com_dotnet-library)
+- [Running script](#Running-script)
 - [Output](#Output)
 - [Contributing](#contributing)
 - [License](#license)
